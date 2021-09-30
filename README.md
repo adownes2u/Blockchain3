@@ -19,9 +19,9 @@ Step 2c - Deposit 5 ether:
 ![](Execution_Results/Step2c.png)
 \
 \
-Step 3a - Withdraw 5 ether into account one.  Note that output of the `lastToWithdraw` and `lastWithdrawAmount` functions are also captured in this screenshot:
+Step 3a - Withdraw 5 ether into account one.  Note that output of the `lastToWithdraw` and `lastWithdrawAmount` functions are also captured in this screenshot:\
 ![](Execution_Results/Step3a.png)
 \
 \
-Step 3b - Withdraw 10 ether into account two.  Note that output of the `lastToWithdraw` and `lastWithdrawAmount` functions are also captured in this screenshot:
+Step 3b - Withdraw 10 ether into account two.  Note that output of the `lastToWithdraw` and `lastWithdrawAmount` functions are also captured in this screenshot:\
 ![](Execution_Results/Step3b.png)
